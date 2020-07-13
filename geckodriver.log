@@ -16,3 +16,64 @@ JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line
 JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
 JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
 1594309410964	Marionette	INFO	Stopped listening on port 50821
+1594405617110	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofileV3eo46"
+1594405619670	Marionette	INFO	Listening on port 63426
+1594405619684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1594405621622	Marionette	INFO	Stopped listening on port 63426
+1594405628711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofileqLIMlk"
+1594405630488	Marionette	INFO	Listening on port 63529
+1594405630568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ro/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ro/accounts/login/, line 624: ReferenceError: oscar is not defined
+1594405633162	Marionette	INFO	Stopped listening on port 63529
+1594405647161	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofile01lzBP"
+1594405648907	Marionette	INFO	Listening on port 63658
+1594405648924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1594405651613	Marionette	INFO	Stopped listening on port 63658
+1594664921699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofile124Jaw"
+1594664924998	Marionette	INFO	Listening on port 61259
+1594664925063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1594664928182	Marionette	INFO	Stopped listening on port 61259
+1594665022360	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofile0sB1F1"
+1594665025079	Marionette	INFO	Listening on port 61740
+1594665025120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594665025206	Marionette	INFO	Stopped listening on port 61740
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1594665087569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofileycTLp6"
+1594665090778	Marionette	INFO	Listening on port 62059
+1594665090844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1594665093121	Marionette	INFO	Stopped listening on port 62059
+1594665144224	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofileP6Nnfb"
+1594665147062	Marionette	INFO	Listening on port 62361
+1594665147097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1594665149378	Marionette	INFO	Stopped listening on port 62361
+1594665237264	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofilenmmH2M"
+1594665240418	Marionette	INFO	Listening on port 62812
+1594665240424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1594665243753	Marionette	INFO	Stopped listening on port 62812
+1594665313426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofileHQ58cU"
+1594665316548	Marionette	INFO	Listening on port 63192
+1594665316581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1594665320889	Marionette	INFO	Stopped listening on port 63192
+1594666490855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8m/h5k2522d1bb9sy5hrp7qlhsh0000gn/T/rust_mozprofilee1AQv8"
+1594666493522	Marionette	INFO	Listening on port 51919
+1594666493609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1594666496177	Marionette	INFO	Stopped listening on port 51919
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
