@@ -12,3 +12,4 @@ class ProductPageLocators():
     ADD_PRODUCT = (By.CSS_SELECTOR,"#add_to_basket_form")
     PRODUCT_NAME_VALID = (By.CSS_SELECTOR,"div.col-sm-6.product_main > h1")
     PRODUCT_NAME_IN_BASKET = (By.CSS_SELECTOR,"#messages > div:nth-child(1) > div > strong")
+    SUCCESS_MESSAGE = (By.CSS_SELECTOR,"#messages > div:nth-child(1)")
