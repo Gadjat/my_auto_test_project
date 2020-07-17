@@ -21,6 +21,12 @@ class BasePage():
 
     def open(self):
         self.browser.get(self.url)
+    def exit(self):
+        self.exit =self.browser.find_element(*BasePageLocators.EXIT)
+        self.exit.click()
+    def should_be_authorized_user(self):
+        assert self.is_element_present(*BasePageLocators.USER_ICON), "User icon is not presented," \
+                                                                     " probably unauthorised user"
 
     def is_element_present(self, how, what):
         try:
