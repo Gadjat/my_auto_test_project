@@ -1,5 +1,5 @@
 Appium-Python-Client==0.48
-cryptography==2.9
+cryptography==3.2
 importlib-metadata==0.23
 more-itertools==7.2.0
 numpy==1.17.4
